@@ -1,0 +1,20 @@
+{
+  "name": "pmpro-composer/strong-passwords",
+  "description": "",
+  "keywords": [
+    "wordpress",
+    "plugin",
+    "paid memberships pro"
+  ],
+  "homepage": "https://www.paidmembershipspro.com/add-ons/require-strong-passwords/",
+  "authors": [
+    {
+      "name": "Paid Memberships Pro",
+      "homepage": "https://www.paidmembershipspro.com"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.4"
+  }
+}
